@@ -1,2 +1,4 @@
-# rock-paper-scissors
-This repository contains the starter files for Rock, Paper, Scissors project. 
+# Rock, Paper, Scissors
+
+## Objective
+Create a Rock, Paper, Scissors that allows the player to play against the computer by invoking the `shoot()` function in the console.  
